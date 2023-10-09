@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Astar_dz</string>
+    <string name="your_name">Your name</string>
+    <string name="your_age">Your age</string>
+    <string name="hi">Hi</string>
+    <string name="Your_new_name_and_age">сгенерировать новое имя и возраст</string>
+    <string name="generate">generate</string>
+    <string name="user_name">твое имя %s</string>
+    <string name="user_age">твой возраст %s</string>
+</resources>
