@@ -25,8 +25,6 @@ public class MainActivity extends AppCompatActivity {
         imageButton = findViewById(R.id.imageButton);
 
     }
-
-
     public void OnClickButton(View view) {
         String name = editTextName.getText().toString().trim();
         String age = editTextAge.getText().toString().trim();
